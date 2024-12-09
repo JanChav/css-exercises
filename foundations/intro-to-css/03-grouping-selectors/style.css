@@ -1,0 +1,13 @@
+.yllwclick {
+    background-color: yellow;
+}
+
+.blkclick {
+    background-color: black;
+    color: white;
+}
+
+.yllwclick.blkclick {
+    font-size: 28px;
+    font-family:'Helvetica','Times New Roman'.'sans-serif';
+}
